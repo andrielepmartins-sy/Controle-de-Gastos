@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "descricao": "rgffg",
+        "valor": 8667.7,
+        "tipo": "Despesa",
+        "data": "11/11/2026 19:29"
+    },
+    {
+        "id": 3,
+        "descricao": "dscrição",
+        "valor": 3224.0,
+        "tipo": "Receita",
+        "data": "11/11/2026 20:29"
+    }
+]
