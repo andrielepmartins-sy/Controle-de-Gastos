@@ -1,5 +1,6 @@
 # Controle de Gastos Pessoais
 
+ Atualização
 Sistema de controle financeiro pessoal desenvolvido em Python, com interface gráfica utilizando Tkinter e armazenamento de dados em JSON.
 
 O projeto tem como objetivo facilitar o gerenciamento financeiro, permitindo registrar receitas e despesas, acompanhar o saldo disponível e consultar o histórico de movimentações.
@@ -96,3 +97,6 @@ Este projeto foi desenvolvido como atividade prática para aplicar conhecimentos
 **Linguagem:** Python  
 **Interface gráfica:** Tkinter  
 **Armazenamento:** JSON
+=======
+
+ main
